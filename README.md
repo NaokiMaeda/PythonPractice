@@ -1,2 +1,2 @@
 # PythonPractice  
-参考サイト : [http://www.python-izm.com/](Python-izm)
+参考サイト : [Python-izm](http://www.python-izm.com/)
